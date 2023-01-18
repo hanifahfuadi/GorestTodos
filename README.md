@@ -7,6 +7,6 @@ Gorest.co.in
 
 How to Run This Automation Testing
 Clone the repository
-  $ git clone https://github.com/arsasoriano/Gorest-API-Testing-Automation.git
+  $ git clone https://github.com/hanifahfuadi/GorestTodos.git
 Open Project Repository on Intellij IDE and Run this on the IDE terminal
   $ mvn clean verify
